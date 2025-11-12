@@ -31,7 +31,7 @@ public class Main {
                     break;
 
                 case 2:
-                    //acheterProduit(input, produits, prix, stock);
+                    acheterProduit(input, produits, prix, stock);
                     break;
 
                 case 3:
